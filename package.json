@@ -1,7 +1,7 @@
 {
-  "name": "ssrfpico",
+  "name": "darna",
   "version": "1.0.0",
-  "description": "SSRF HAC Application",
+  "description": "SSR darna Application",
   "main": "dist/server/server.mjs",
   "scripts": {
     "start": "node dist/server/server.mjs",
