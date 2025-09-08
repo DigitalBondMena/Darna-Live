@@ -6,115 +6,404 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/ar/</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/about-us</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/projects</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/careers</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/contact-us</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/projects/%D8%AA%D9%8A%D8%B1%D8%A7%D8%B3-%D9%85%D9%88%D9%84-%D8%AF%D8%A7%D8%B1%D9%86%D8%A7</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/mollit-quia-elit-of</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/32</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%88%D9%84-%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D9%83%D8%A7%D9%85%D9%84</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/31</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/%D8%A7%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/30</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/privacy-policy</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/22</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/16</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/27</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/28</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/projects/%D8%AF%D8%A7%D8%B1%D9%86%D8%A7-%D8%AC%D9%88%D9%8A%D8%A7-%D9%85%D9%88%D9%84</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/projects/%D9%84%D9%88%D9%86%D8%AC-%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF-%D9%85%D8%B7%D8%B1%D9%88%D8%AD-%D8%AF%D8%A7%D8%B1%D9%86%D8%A7</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/projects/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D9%85%D9%86-%D8%AF%D8%A7%D8%B1%D9%86%D8%A7</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/careers/%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/%D8%A3%D9%81%D8%B6%D9%84-%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/%D8%AA%D8%B9%D8%B1%D9%81-%D9%85%D8%B9%D9%86%D8%A7-%D8%B9%D9%84%D9%8A-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/17</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/20</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/22</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/23</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/18</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/29</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/26</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/24</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/25</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/16</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/14</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/15</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/19</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/28</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/13</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/21</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/12</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar/media-center/27</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/about-us</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/projects</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/about-us</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/careers</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/projects</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/media-center</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/careers</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/contact-us</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/privacy</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/contact-us</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/media-center/Darna%E2%80%99s%20Developments</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/projects/terrace-mall-darna</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/media-center/Everything%20You%20Need%20to%20Know%20About%20Darna</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/officia-consequatur</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/media-center/Darna%E2%80%99s%20Step-by-Step%20Development%20Approach</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/32</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/projects/lONG%20ISLAND</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/full-commercial-mall-project</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/31</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/real-estate-prices-in-el-shorouk</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/30</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/ar</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/privacy-policy</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/projects/darna-joya-mall</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/projects/TERRACE</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/projects/long-island-matrouh-darna</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/projects/MEDICAL%20CENTER</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/projects/darnas-third-medical-center</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/careers/Kilin%20Ward</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/careers/software-engineer</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/careers/John%20Doe</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/best-types-of-real-estate-investment</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/careers/Jane%20Doe</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/how-to-invest-in-real-estate</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/media-center/1</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/types-of-units</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/media-center/2</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/18</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/media-center/3</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/17</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/media-center/4</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/14</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/media-center/5</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/23</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://alt-db-darna.netlify.app/ar/media-center/6</loc>
-  <lastmod>2025-07-20T05:28:52+00:00</lastmod>
+  <loc>https://darna-drc.com/en/media-center/26</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/20</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/29</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/12</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/24</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/19</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/25</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/13</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/21</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://darna-drc.com/en/media-center/15</loc>
+  <lastmod>2025-09-08T15:14:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
