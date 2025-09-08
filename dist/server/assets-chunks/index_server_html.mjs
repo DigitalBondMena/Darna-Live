@@ -1,0 +1,85 @@
+export default `<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Darna Developments</title>
+    <link rel="preload" href="/fonts/Outfit/Outfit-Regular.woff2" as="font" type="font/woff2" crossorigin=""/>
+    <link rel="preload" href="/fonts/Poppins/Poppins-Regular.woff2" as="font" type="font/woff2" crossorigin=""/>
+
+    <link rel="canonical" href="https://alt-db-darna.netlify.app/ar/"/>
+    <base href="/"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="Darna Developments"/>
+    <!-- Open Graph to help social media platforms display your content correctly -->
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://alt-db-darna.netlify.app/"/>
+    <meta property="og:title" content="Darna"/>
+    <meta property="og:description" content="Darna Developments"/>
+    <meta property="og:image" content="https://alt-db-darna.netlify.app/favicon-96x96.png"/>
+    <meta property="og:locale" content="ar"/>
+    <meta property="og:locale:alternate" content="en"/>
+    <meta property="og:site_name" content="Darna Developments"/>
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:url" content="https://alt-db-darna.netlify.app/"/>
+    <meta name="twitter:title" content="Darna"/>
+    <meta name="twitter:description" content="Darna Developments"/>
+
+    <!-- These help platforms like Facebook load your image faster and display it correctly. -->
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+
+    <link rel="icon" href="favicon.ico"/>
+
+    <!-- Standard favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="https://alt-db-darna.netlify.app/favicon-96x96.png"/>
+
+    <link rel="icon" type="image/png" sizes="16x16" href="https://alt-db-darna.netlify.app/favicon-96x96.png"/>
+
+    <!-- Shortcut icon (backward compatibility) -->
+    <link rel="shortcut icon" href="https://alt-db-darna.netlify.app/favicon.ico"/>
+
+    <!-- Apple Touch Icon (iOS home screen) -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://alt-db-darna.netlify.app/apple-touch-icon.png"/>
+
+    <!-- Android / Windows Tile Color -->
+    <meta name="theme-color" content="#ffffff"/>
+    <meta name="msapplication-TileColor" content="#ffffff"/>
+    <meta name="msapplication-TileImage" content="https://alt-db-darna.netlify.app/favicon.ico"/>
+
+    <!-- Safari Pinned Tab (macOS) -->
+    <link rel="mask-icon" href="https://alt-db-darna.netlify.app/favicon.ico" color="#5bbad5"/>
+  <link rel="stylesheet" href="styles-3UJFUAC7.css"></head>
+  <body><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
+</script>
+    <app-root></app-root>
+  <link rel="modulepreload" href="chunk-DGH54YDJ.js"><link rel="modulepreload" href="chunk-MNWDKATX.js"><link rel="modulepreload" href="chunk-VEAIOORH.js"><link rel="modulepreload" href="chunk-J4HLQKGH.js"><link rel="modulepreload" href="chunk-B5UIISOU.js"><link rel="modulepreload" href="chunk-ISBDLSIU.js"><link rel="modulepreload" href="chunk-7UE5UWFY.js"><link rel="modulepreload" href="chunk-CUNVNTJ5.js"><link rel="modulepreload" href="chunk-IOM7A4FG.js"><link rel="modulepreload" href="chunk-FVPHYVMH.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-7S2SL3ZA.js" type="module"></script></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`;
