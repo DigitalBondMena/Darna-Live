@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{c as p}from"./chunk-76LNOMPC.mjs";import"./chunk-GIKX3FSG.mjs";import{Hb as n,eb as o}from"./chunk-WBGATB6S.mjs";import"./chunk-S6KH3LOX.mjs";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-projects"]],decls:1,vars:0,template:function(e,c){e&1&&n(0,"router-outlet")},dependencies:[p],encapsulation:2})};export{s as ProjectsComponent};

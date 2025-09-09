@@ -1,1 +1,0 @@
-import{c as r}from"./chunk-IOM7A4FG.js";import"./chunk-X2VVW3QJ.js";import{Ib as n,hb as o}from"./chunk-2MZEX25K.js";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-careers"]],decls:1,vars:0,template:function(e,p){e&1&&n(0,"router-outlet")},dependencies:[r],encapsulation:2})};export{s as CareersComponent};
