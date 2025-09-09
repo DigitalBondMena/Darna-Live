@@ -71,6 +71,6 @@ export default `<!DOCTYPE html>
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59848QQF" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
 
     <app-root></app-root>
-  <link rel="modulepreload" href="chunk-BC533B5K.js"><link rel="modulepreload" href="chunk-JRARXX3D.js"><link rel="modulepreload" href="chunk-RIA75FPH.js"><link rel="modulepreload" href="chunk-2AB3XR27.js"><link rel="modulepreload" href="chunk-I462JA3T.js"><link rel="modulepreload" href="chunk-D54LCOY2.js"><link rel="modulepreload" href="chunk-CFIRBSIY.js"><link rel="modulepreload" href="chunk-SKJHEMYM.js"><link rel="modulepreload" href="chunk-REGJWRS3.js"><link rel="modulepreload" href="chunk-NE3TE6V5.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-XZ7PFIZN.js" type="module"></script></body>
+  <link rel="modulepreload" href="chunk-BC533B5K.js"><link rel="modulepreload" href="chunk-JRARXX3D.js"><link rel="modulepreload" href="chunk-RIA75FPH.js"><link rel="modulepreload" href="chunk-2AB3XR27.js"><link rel="modulepreload" href="chunk-I462JA3T.js"><link rel="modulepreload" href="chunk-D54LCOY2.js"><link rel="modulepreload" href="chunk-CFIRBSIY.js"><link rel="modulepreload" href="chunk-SKJHEMYM.js"><link rel="modulepreload" href="chunk-REGJWRS3.js"><link rel="modulepreload" href="chunk-NE3TE6V5.js"><script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-O6YE5EWK.js" type="module"></script></body>
 </html>
 `;
