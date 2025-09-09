@@ -1,1 +1,0 @@
-import{a}from"./chunk-IWTS4ABB.js";import"./chunk-XGNKKZLG.js";import"./chunk-5L3H67GH.js";import"./chunk-5IORF7ZL.js";import"./chunk-WUTWM3HZ.js";import"./chunk-KRFGI5I6.js";import"./chunk-EXRZ27KW.js";import"./chunk-ICIMA7VA.js";import"./chunk-BQNT5KH3.js";export{a as MainPartnersSliderComponent};

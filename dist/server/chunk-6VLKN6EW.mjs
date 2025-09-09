@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{c as r}from"./chunk-STY7ZHU3.mjs";import"./chunk-5RDE7E3V.mjs";import{Ib as n,fb as o}from"./chunk-GPC4OZKG.mjs";import"./chunk-S6KH3LOX.mjs";var s=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-careers"]],decls:1,vars:0,template:function(e,p){e&1&&n(0,"router-outlet")},dependencies:[r],encapsulation:2})};export{s as CareersComponent};
