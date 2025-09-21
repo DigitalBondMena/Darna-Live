@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alt-db-darna.netlify.app/sitemap.xml
