@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{a as r}from"./chunk-KHBKGCTP.mjs";import{f as n}from"./chunk-EBORJ4EU.mjs";import{Q as o,W as e}from"./chunk-HFRIEXOR.mjs";var i=class a{http=e(n);getContactUsData(t){return this.http.get(`${r}api/${t}/contact`)}sendContactUsData(t){return this.http.post(`${r}api/submit-contact-form`,t)}static \u0275fac=function(c){return new(c||a)};static \u0275prov=o({token:a,factory:a.\u0275fac,providedIn:"root"})};export{i as a};
